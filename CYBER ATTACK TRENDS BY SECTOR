@@ -15,7 +15,7 @@ The analysis was performed in Python using Jupyter Notebook, with data visualiza
 
 📊 Dataset
 
-Source: Publicly available cyber attack dataset (Statista / Kaggle / open security reports).
+Source: Publicly available cyber attack dataset:-  Kaggle
 
 Format: CSV file with columns:
 
@@ -25,15 +25,15 @@ Sector
 
 Number_of_Attacks
 
-Attack_Type (if available)
+Attack_Type 
 
-📌 Dataset file: data/cyber_attacks.csv
+📌 Dataset file: data/cyber_incidents.csv
 
 ⚙️ Installation
 
 Clone the repo and install dependencies:
 
-git clone https://github.com/your-username/cyber-attack-trends.git
+git clone https://github.com/shrivastavaisha23/ README.md/cyber-attack-trends by sector.git
 cd cyber-attack-trends
 pip install -r requirements.txt
 
@@ -59,11 +59,11 @@ Key findings from the analysis:
 
 Sample Visualizations:
 
-Attacks by sector (bar chart)
+Top Attack Vectors (bar chart)
 
-Yearly attack trend (line chart)
+Cyber Attacks Over Time  (line chart)
 
-Attack type distribution (pie chart)
+Frequency Of Cyberattacks By Sector (bar chart)
 
 📂 Project Structure
 cyber-attack-trends/
@@ -87,10 +87,3 @@ Contributions, suggestions, and improvements are welcome!
 
 MIT License
 
-✅ This is a complete README.md — you don’t need to edit anything except maybe:
-
-Replace your-username with your actual GitHub username
-
-Add real dataset source link if required
-
-Do you also want me to generate the r
